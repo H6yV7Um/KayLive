@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\kaylive\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
+            "map": [
+                {
+                    "source": "D:\\kaylive\\app\\src\\main\\res\\values-v19\\styles.xml",
+                    "from": {
+                        "startLines": "4,17,21",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "108,921,1005",
+                        "endLines": "15,19,23",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "913,997,1163"
+                    },
+                    "to": {
+                        "startLines": "2,14,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,854,933",
+                        "endLines": "13,16,19",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "849,928,1089"
+                    }
+                }
+            ]
+        }
+    ]
+}

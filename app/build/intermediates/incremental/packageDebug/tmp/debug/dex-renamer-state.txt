@@ -1,0 +1,7 @@
+#Mon Apr 23 20:05:30 CST 2018
+base.0=D\:\\kaylive\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\kaylive\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
