@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\kaylive\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ml-rIN\\values-ml-rIN.xml",
+            "outputFile": "D:\\KayLive\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ml-rIN\\values-ml-rIN.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.2.1.aar\\a129c3da24a4f4a4629c740ff6029f87\\res\\values-ml-rIN\\values-ml-rIN.xml",
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.2.1.aar\\6d822a1e3b0e18855ef72ad25254b2a5\\res\\values-ml-rIN\\values-ml-rIN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

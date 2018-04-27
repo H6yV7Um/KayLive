@@ -11,7 +11,7 @@ android {
         versionCode 1
         versionName "xiaozhiboversion"
 
-        renderscriptTargetApi 14
+        renderscriptTargetApi 18
         renderscriptSupportModeEnabled true
         multiDexEnabled true
     }

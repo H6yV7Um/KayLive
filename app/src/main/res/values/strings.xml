@@ -111,7 +111,7 @@
     <string name="userinfo_sex_female">女</string>
     <string name="userinfo_sex_male">男</string>
 
-    <string name="app_about">关于小直播</string>
+    <string name="app_about">关于KayLive</string>
     <string name="app_set">编辑个人信息</string>
     <string name="btn_login_out">退出登录</string>
     <string name="tip_force_offline">您的帐号已在其它地方登录</string>

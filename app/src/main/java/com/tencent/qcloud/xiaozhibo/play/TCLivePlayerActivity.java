@@ -205,7 +205,7 @@ public class TCLivePlayerActivity extends Activity implements ILiveRoomListener,
         mCoverUrl = getIntent().getStringExtra(TCConstants.COVER_PIC);
         TCUtils.blurBgPic(this, mBgImageView, mCoverUrl, R.drawable.bg);
 
-        initSharePara();
+        // initSharePara();
 
         mPlayerList = new TCVideoWidgetList(this, null);
 
